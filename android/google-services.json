@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "766954077347",
+    "firebase_url": "https://demoprojectcrud-default-rtdb.firebaseio.com",
+    "project_id": "demoprojectcrud",
+    "storage_bucket": "demoprojectcrud.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766954077347:android:6886d15f7c4c2e0534d316",
+        "android_client_info": {
+          "package_name": "com.app.doc_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIiUkRg07iLwGW7brBSCflXeCAvn9aGcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766954077347:android:39a7fd1e5558ea8934d316",
+        "android_client_info": {
+          "package_name": "com.example.notesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIiUkRg07iLwGW7brBSCflXeCAvn9aGcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766954077347:android:c7fd3bb98e2e28f434d316",
+        "android_client_info": {
+          "package_name": "com.exmple.unititled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIiUkRg07iLwGW7brBSCflXeCAvn9aGcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
